@@ -161,6 +161,10 @@ for i = 1 : num
     fprintf('%s ER: %f\n', name, ER);
     fprintf('%s No Cost ER: %f\n', name, ER_noCost);
     
+    %% 加密比特流，生成加密后的模型
+    
+    
+    
     
     
     

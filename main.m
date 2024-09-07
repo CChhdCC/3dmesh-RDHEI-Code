@@ -14,6 +14,9 @@ files = dataset;
 [num, ~]= size(files);
 C = 0;
 Capacity = [];
+K_en = 2024;%加密
+K_fix = 114;%混洗
+K_emb = 514;%嵌入加密
 for i = 1 : num
     if strfind(files(i).name,'.off')% if strfind(files(i).name,'.ply') %Read a file in .ply format
         name = files(i).name;
@@ -39,10 +42,12 @@ for i = 1 : num
     vertex0 = 1-vertex;
     %% Preprocessing  预处理
     magnify = 10^m;
-    [vertex, bit_len] = meshPrepro(m, vertex0);
+    [Vertex, bit_len] = meshPrepro(m, vertex0);%预处理后顶点是Vertex
+    
+    vertex_num = size(Vertex,1);%顶点数目
     
     %% 获取与每个顶点相关的信息
-    vertex_related = GetRelatedVertex(vertex, face);
+    vertex_related = GetRelatedVertex(Vertex, face);
     
         % 显示结果
         for i = 1:length(vertex_related)
@@ -127,7 +132,7 @@ for i = 1 : num
     
     %% MSB替换
     
-    [MSBLength_Statistics,MultiMSB_ProcessedModel] = GetMSBLengthAndLSBPos(vertex,vertex_roots_dfs,related_trees_dfs, bit_len);
+    [MSBLength_Statistics,MultiMSB_ProcessedModel] = GetMSBLengthAndLSBPos(Vertex,vertex_roots_dfs,related_trees_dfs, bit_len);
     
     figure;
     bar(MSBLength_Statistics);
@@ -160,6 +165,20 @@ for i = 1 : num
     
     fprintf('%s ER: %f\n', name, ER);
     fprintf('%s No Cost ER: %f\n', name, ER_noCost);
+    
+    %% 加密比特流，生成加密后的模型
+    
+    Vertex_en = StreamEncryption(strStream ,vertex_num,vocated_len, K_en, K_fix, bit_len, magnify);
+    
+    %% 嵌入信息，生成载密模型
+    
+    
+    %% Print models 展示不同阶段模型
+    figure,
+    plot_mesh(vertex,face);
+    figure,
+    plot_mesh(Vertex_en,face);
+    
     
     
     
