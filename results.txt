@@ -1,6 +1,0 @@
-m107(horse).off
-m             capacity              hd               snr
-m112(bunny).off
-m             capacity              hd               snr
-m88(dog).off
-m             capacity              hd               snr
