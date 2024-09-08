@@ -11,6 +11,7 @@ function [Vertex_en] = StreamEncryption(strStream ,vertex_num,vocated_len, K_en,
 % 输出：
 % 加密后的vertex_en;
 
+vocated_length = 32;%32位表示空出的空间
 if isstring(strStream)
     strStream = char(strStream);
 end
@@ -26,11 +27,11 @@ end
     Vertex_encryed_array = xor(Vertex_befor_encry_array, random_matrix);  % 异或操作
 
     % 将嵌入长度 vocated_len 写入加密数据流的末尾 32 位
-    vocated_bin = dec2bin(vocated_len, 32) - '0';  % 32 位二进制表示
-    Vertex_encryed_array(end-31:end) = vocated_bin;  % 将 vocated_len 写入末尾
+    vocated_bin = dec2bin(vocated_len, vocated_length) - '0';  % 32 位二进制表示
+    Vertex_encryed_array(end-vocated_length+1:end) = vocated_bin;  % 将 vocated_len 写入末尾
 
     % 3. 使用密钥 Kfix 生成混洗矩阵，进行混洗
-    rng(K_fix);  % 设置随机种子为 Kfix 密钥
+    %rng(K_fix);  % 设置随机种子为 Kfix 密钥
     Vertex_encryed_fixed = shuffleMatrix(Vertex_encryed_array, K_fix);  % 混洗过程
 
     % 4. 将混洗后的数据流分配到 vertex_en 中
@@ -44,9 +45,9 @@ end
         end
     end
     
-    % 5. 将其转化为小数表示，并还原（1-vertex_en）
-    vertex_en = vertex_en/magnify;
-    Vertex_en = 1 - vertex_en;
+    % 5. 不将其转化为小数表示
+    Vertex_en = vertex_en/magnify;
+    %Vertex_en = 1 - vertex_en;
     
 
 end

@@ -172,12 +172,19 @@ for i = 1 : num
     
     %% 嵌入信息，生成载密模型
     
+    Vertex_stored = EmbInfo(Vertex_en,K_fix, K_emb, m);
+    
+    %% 还原模型，还原信息
+    
+    
     
     %% Print models 展示不同阶段模型
     figure,
-    plot_mesh(vertex,face);
+    plot_mesh(vertex,face);%原始模型
     figure,
-    plot_mesh(Vertex_en,face);
+    plot_mesh(Vertex_en,face);%加密模型
+    figure,
+    plot_mesh(Vertex_stored,face);%载密模型
     
     
     
