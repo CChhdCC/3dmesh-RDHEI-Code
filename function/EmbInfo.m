@@ -10,19 +10,19 @@ function [Vertex_stored] = EmbInfo(Vertex_en,K_fix, K_emb, m_pricision)
 % 输出：
 % 载密模型Vertex_stored
 
-vocated_len = 32;%32位表示空出的空间
+vocated_len = 32;%32位表示空出的空间(规定)
 
 %% 1. 将顶点标准化
 
     %vertex0 = 1-Vertex_en;
     %Preprocessing  预处理
     [~, bit_len] = meshPrepro(m_pricision, Vertex_en);%预处理后顶点是Vertex
-    magnify = 10^m_pricision;
-    Vertex_10 = Vertex_en*magnify;%预处理后顶点是Vertex
+    %magnify = 10^m_pricision;
+    %Vertex_10 = Vertex_en%*magnify;%预处理后顶点是Vertex
     
-    vertex_num = size(Vertex_10,1);%顶点数目
+    vertex_num = size(Vertex_en,1);%顶点数目
     
-    bitArray = vertexToBinaryArray(Vertex_10, bit_len);%顶点转化为二进制数组
+    bitArray = vertexToBinaryArray(Vertex_en, bit_len);%顶点转化为二进制数组
     [~,total_length] = size(bitArray);
     
 %% 2. 反混洗，获取长度
@@ -55,9 +55,9 @@ vocated_len = 32;%32位表示空出的空间
         end
     end
     
-    % 5. 将其转化为小数表示，并还原（1-vertex_store）
-    vertex_store = vertex_store/magnify;
-    Vertex_stored = 1 - vertex_store;
+    % 5. 非小数表示
+    Vertex_stored = vertex_store;%/magnify;
+    %Vertex_stored = 1 - vertex_store;
 
 end
 

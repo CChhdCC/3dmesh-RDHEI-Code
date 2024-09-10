@@ -13,3 +13,6 @@ strStream 压缩比特流：
 | symbols | 非根节点((msb_length的对应Huffman编码+lsb)*(x,y,z)) | 多位 |
 | ... | ... | ... |
 | vocated_len | 空出的空间长度 | 32位 |
+
+
+感觉精度就不存了，因为存了就没办法直接拿出来，就说精度是约定好的。m=5.

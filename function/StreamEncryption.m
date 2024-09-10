@@ -46,7 +46,7 @@ end
     end
     
     % 5. 不将其转化为小数表示
-    Vertex_en = vertex_en/magnify;
+    Vertex_en = vertex_en;%/magnify;
     %Vertex_en = 1 - vertex_en;
     
 

@@ -176,6 +176,9 @@ for i = 1 : num
     
     %% 还原模型，还原信息
     
+    %还原信息
+    Emb_array = restoreInfomation(Vertex_stored,K_fix, K_emb,m);
+    %还原模型顶点
     
     
     %% Print models 展示不同阶段模型
