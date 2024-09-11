@@ -111,22 +111,21 @@ vocated_len = 32;%32位表示空出的空间(规定)
            continue;
         end
         if notRoot_ptr > vertex_num
-            error('重构非根节点结构数组出错');
+            error('f');
         end
-        MultiMSB_ProcessedModel(j).id = j;%struct('id', vertex_roots_dfs(i), 'msbx_length', 0, 'lsbx', strThisPosX ,'msby_length', 0, 'lsby', strThisPosY ,'msbz_length', 0, 'lsbz', strThisPosZ);
-         MultiMSB_ProcessedModel(j).msbx_length = notRootNodes(notRoot_ptr).msbx_length;
-         MultiMSB_ProcessedModel(j).lsbx = notRootNodes(notRoot_ptr).lsbx;
+        MultiMSB_ProcessedModel(i).id = j;%struct('id', vertex_roots_dfs(i), 'msbx_length', 0, 'lsbx', strThisPosX ,'msby_length', 0, 'lsby', strThisPosY ,'msbz_length', 0, 'lsbz', strThisPosZ);
+         MultiMSB_ProcessedModel(i).msbx_length = ;
+         MultiMSB_ProcessedModel(i).lsbx = ;
          
-         MultiMSB_ProcessedModel(j).msby_length = notRootNodes(notRoot_ptr).msby_length;
-         MultiMSB_ProcessedModel(j).lsby = notRootNodes(notRoot_ptr).lsby;
+         MultiMSB_ProcessedModel(i).msby_length =;
+         MultiMSB_ProcessedModel(i).lsby =;
          
-         MultiMSB_ProcessedModel(j).msbz_length =  notRootNodes(notRoot_ptr).msbz_length;
-         MultiMSB_ProcessedModel(j).lsbz = notRootNodes(notRoot_ptr).lsbz;
-         notRoot_ptr = notRoot_ptr+1;
+         MultiMSB_ProcessedModel(i).msbz_length = ;
+         MultiMSB_ProcessedModel(i).lsbz =;
     end
     
     %% 反向MSB替换     
-    vertex_restruct = restoreVerticesFromMSB(MultiMSB_ProcessedModel_Roots, MultiMSB_ProcessedModel, related_trees, bit_len);
+    vertex_restruct = restoreVerticesFromMSB(MultiMSB_ProcessedModel_Roots, notRootNodes, related_trees, bit_len)
     %fprintf('反向MSB替换\n');
     
     if isequal(vertex_restruct, Vertex)

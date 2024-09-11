@@ -82,7 +82,7 @@ for i = 1 : num
     visualizeRelatedTrees(related_trees_dfs, sprintf('DFS Tree %d', i));
     %%
     % 使用BFS方法生成树
-    [vertex_roots_bfs, related_trees_bfs] = GetTreesFromVertexRelatedBFS(vertex_related);
+    %[vertex_roots_bfs, related_trees_bfs] = GetTreesFromVertexRelatedBFS(vertex_related);
     
     %     disp('BFS生成的树结构:');
     %     disp(related_trees_bfs);
@@ -93,8 +93,8 @@ for i = 1 : num
     %         fprintf('child Vertices: %s\n ', num2str(related_trees_bfs(i).child));
     %     end
     %
-    disp('BFS生成树的根节点:');
-    disp(vertex_roots_bfs);
+    %disp('BFS生成树的根节点:');
+    %disp(vertex_roots_bfs);
     %
     %     显示根节点结果
     %     for i = 1:length(vertex_roots_bfs)
@@ -107,7 +107,7 @@ for i = 1 : num
     %visualizeRelatedTrees(related_trees_bfs, sprintf('BFS Tree %d', i));
     %%
     % 使用SMTT方法生成树
-    [vertex_roots_smtt, related_trees_smtt] = GetTreesFromVertexRelatedSMTT(vertex_related);
+    %[vertex_roots_smtt, related_trees_smtt] = GetTreesFromVertexRelatedSMTT(vertex_related);
     %
     %     disp('SMTT生成的树结构:');
     %     disp(related_trees_smtt);
@@ -119,8 +119,8 @@ for i = 1 : num
     %     end
     %
     %
-    disp('SMTT生成树的根节点:');
-    disp(vertex_roots_smtt);
+    %disp('SMTT生成树的根节点:');
+    %disp(vertex_roots_smtt);
     %
     %     % 显示根节点结果
     %     for i = 1:length(vertex_roots_smtt)
@@ -179,7 +179,7 @@ for i = 1 : num
     %还原信息
     Emb_array = restoreInfomation(Vertex_stored,K_fix, K_emb,m);
     %还原模型顶点
-    
+    Vertex_restore = restoreVertex(Vertex_stored,face,K_fix, K_en,m, strStream,Vertex);
     
     %% Print models 展示不同阶段模型
     figure,
@@ -188,6 +188,8 @@ for i = 1 : num
     plot_mesh(Vertex_en,face);%加密模型
     figure,
     plot_mesh(Vertex_stored,face);%载密模型
+    figure,
+    plot_mesh(Vertex_restore,face);%还原模型
     
     
     
