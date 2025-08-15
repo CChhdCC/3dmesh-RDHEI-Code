@@ -1,0 +1,27 @@
+m107(horse).off
+m          capacity        nocost_capacity             hd               snr
+5          54.058342         54.179941         8.173738e-06          97.869311
+m112(bunny).off
+m          capacity        nocost_capacity             hd               snr
+5          54.799766         54.847224         8.660254e-06          97.619914
+m1156(airplane).off
+m          capacity        nocost_capacity             hd               snr
+5          62.015730         62.300375         8.660254e-06          95.758139
+m1408(xwing).off
+m          capacity        nocost_capacity             hd               snr
+5          63.206497         63.462490         8.546344e-06          96.400483
+m295(face).off
+m          capacity        nocost_capacity             hd               snr
+5          52.322034         53.021186         8.124038e-06          92.228379
+m81(shark).off
+m          capacity        nocost_capacity             hd               snr
+5          60.022170         60.273046         2.000000e-06          107.914218
+m88(dog).off
+m          capacity        nocost_capacity             hd               snr
+5          53.610012         53.838072         8.660254e-06          96.019198
+m99(pig).off
+m          capacity        nocost_capacity             hd               snr
+5          52.099310         52.366897         8.124038e-06          97.030397
+mushroom.off
+m          capacity        nocost_capacity             hd               snr
+5          44.774336         46.172566         8.124038e-06          102.257441

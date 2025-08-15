@@ -1,0 +1,1140 @@
+m0000.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          48.607383         49.506711         8.660254e-06          95.597666         7.289586e+09          -202.779957
+m0005.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          53.241401         53.319321         8.660254e-06          94.893335         7.258285e+09          -203.733502
+m0009.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          59.314183         59.921005         8.002500e-06          94.017972         6.966134e+09          -204.135275
+m0015.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          50.391304         51.288043         7.681146e-06          93.805324         6.807483e+09          -204.969190
+m0017.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          60.321705         60.519380         8.124038e-06          94.344783         7.080212e+09          -204.510730
+m0022.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          60.327327         61.063063         8.660254e-06          94.766356         6.917353e+09          -204.842449
+m0027.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          43.856305         44.868035         8.124038e-06          96.849127         6.941426e+09          -201.675820
+m0032.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          53.534987         53.752879         8.124038e-06          96.069987         7.236264e+09          -202.504378
+m0038.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          57.338362         58.049569         7.934734e-06          90.362952         6.939293e+09          -208.772781
+m0039.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          63.656394         64.154083         7.769170e-06          94.838137         6.886358e+09          -204.360513
+m0042.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          48.362069         51.301724         7.681146e-06          90.663854         6.468807e+09          -208.304165
+m0053.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          62.525069         62.544842         8.660254e-06          93.389140         7.271694e+09          -205.231450
+m0058.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          49.991614         50.727463         8.124038e-06          95.790035         6.927107e+09          -202.952007
+m0061.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.050926         56.337963         8.124038e-06          94.208192         7.120145e+09          -204.027130
+m0067.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          65.912929         65.939500         8.660254e-06          95.368608         7.273097e+09          -203.200870
+m0070.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          57.003125         58.037500         8.124038e-06          95.189986         7.013249e+09          -203.331616
+m0073.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          47.691228         48.985965         7.761443e-06          96.658610         6.656421e+09          -202.013432
+m0075.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          57.248322         58.164430         8.002500e-06          93.895653         6.966696e+09          -204.618972
+m0084.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          61.318689         61.449406         8.376754e-06          98.138485         7.349697e+09          -200.495754
+m0085.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          54.027764         54.216052         8.660254e-06          96.360787         7.153471e+09          -202.082203
+m0087.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          53.198263         53.528220         8.124038e-06          97.209018         7.091999e+09          -201.404342
+m0090.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          51.701066         51.914190         8.660254e-06          97.277480         6.973260e+09          -201.224654
+m0095.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          52.589958         52.965481         8.660254e-06          95.843363         7.030026e+09          -202.857354
+m0100.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          50.575908         51.183168         8.660254e-06          96.736111         6.624525e+09          -201.872546
+m0102.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          50.370079         52.362205         7.376313e-06          96.852467         7.070436e+09          -202.251640
+m0105.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          51.417808         53.547945         7.884161e-06          98.029945         5.994325e+09          -199.917396
+m0108.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          56.187753         56.221162         8.660254e-06          97.374665         7.177417e+09          -201.225655
+m0110.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          48.052980         48.871965         8.124038e-06          96.992914         7.113567e+09          -201.488815
+m0113.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          57.401803         57.462787         8.660254e-06          93.550617         7.301208e+09          -205.034081
+m0116.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          62.904887         62.918257         8.660254e-06          95.215163         7.247485e+09          -203.399961
+m0125.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          52.249600         52.533600         8.660254e-06          94.666936         7.240523e+09          -203.838564
+m0128.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          53.179039         53.676856         8.660254e-06          95.207099         6.964683e+09          -203.426992
+m0135.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          51.060241         51.817269         7.980601e-06          95.101961         7.192394e+09          -203.536341
+m0137.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          54.327017         54.552567         8.602906e-06          94.995649         6.807029e+09          -203.577913
+m0139.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.895977         55.926437         8.660254e-06          93.859039         7.240982e+09          -204.764108
+m0141.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          54.077038         54.217197         8.660254e-06          94.610486         7.324974e+09          -204.030064
+m0144.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          50.834320         51.356509         8.124038e-06          94.712601         6.865643e+09          -203.722911
+m0149.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          59.439453         59.460846         8.660254e-06          96.061386         7.237254e+09          -202.561121
+m0153.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          59.574857         59.610858         8.660254e-06          94.008227         7.194432e+09          -204.676611
+m0155.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          54.955039         55.163566         8.124038e-06          95.341816         7.019813e+09          -203.017225
+m0158.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          58.633397         59.261036         8.124038e-06          94.806482         6.823412e+09          -204.081192
+m0160.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          54.308725         54.701342         8.546344e-06          95.593424         7.190703e+09          -203.185219
+m0163.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          47.633333         50.208333         8.124038e-06          96.604832         7.115630e+09          -202.275205
+m0166.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          51.088235         51.731092         8.124038e-06          94.991729         6.993288e+09          -203.484483
+m0176.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          49.032486         49.507062         8.124038e-06          94.185337         6.812018e+09          -204.454259
+m0181.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          57.600117         57.642254         8.660254e-06          96.137024         7.341716e+09          -202.493731
+m0186.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          51.085333         51.888000         8.124038e-06          94.813583         7.141346e+09          -203.854429
+m0191.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          60.725806         62.161290         5.830952e-06          100.226451         6.505491e+09          -202.606473
+m0196.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.672265         55.761423         8.660254e-06          93.641054         7.159635e+09          -204.910549
+m0201.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          57.661939         57.684288         8.660254e-06          95.346043         7.315305e+09          -203.197980
+m0205.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          62.181269         62.675227         8.124038e-06          95.182781         7.126995e+09          -203.798830
+m0210.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          48.900000         49.819048         8.124038e-06          95.563292         6.884572e+09          -202.975278
+m0214.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          64.824037         64.982174         8.660254e-06          95.147766         7.154752e+09          -203.727514
+m0217.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          49.998953         50.386387         8.124038e-06          93.967233         6.982435e+09          -204.663547
+m0223.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          59.078297         59.113053         8.660254e-06          97.307327         7.201737e+09          -201.311314
+m0228.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          59.030919         59.054536         8.660254e-06          96.116229         7.184301e+09          -202.454400
+m0229.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          60.138710         60.158927         8.660254e-06          96.675368         7.309763e+09          -201.849752
+m0233.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          50.251673         50.742972         8.124038e-06          96.241226         7.083833e+09          -202.440147
+m0236.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          61.341781         61.468497         8.660254e-06          96.743875         7.097575e+09          -202.177523
+m0244.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          48.505556         49.120370         8.660254e-06          96.170878         7.057922e+09          -202.485846
+m0247.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          56.560037         56.579905         8.660254e-06          92.476182         7.221120e+09          -206.175077
+m0251.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          57.954686         58.000371         8.660254e-06          96.724081         7.046766e+09          -201.887385
+m0254.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          60.001181         60.024002         8.660254e-06          96.729183         7.237222e+09          -201.873306
+m0258.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          60.896132         60.925786         8.660254e-06          96.831614         7.350628e+09          -201.843058
+m0261.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          50.750520         51.517672         8.660254e-06          94.939683         7.049096e+09          -203.805480
+m0264.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          58.277904         58.319277         8.660254e-06          95.448304         7.256789e+09          -203.239970
+m0268.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          52.769841         54.007937         8.124038e-06          90.861196         7.000134e+09          -207.205475
+m0272.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          57.052586         57.132974         8.660254e-06          92.406350         7.054456e+09          -206.194587
+m0275.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          59.885505         59.903332         8.660254e-06          93.081911         7.285016e+09          -205.547159
+m0280.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          54.647892         54.772633         8.660254e-06          96.834387         7.045408e+09          -201.834649
+m0285.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.834528         55.851998         8.660254e-06          97.196779         7.348720e+09          -201.383753
+m0288.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          47.381877         48.003236         8.660254e-06          97.765746         6.913867e+09          -200.988650
+m0292.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          51.348837         51.841860         8.124038e-06          95.537159         7.087193e+09          -202.885054
+m0295.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          52.322034         53.021186         8.124038e-06          92.228379         6.777028e+09          -206.286283
+m0299.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          58.344796         58.353065         8.660254e-06          98.525723         7.373264e+09          -200.085992
+m0301.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          58.290939         58.311366         8.660254e-06          95.881786         7.322801e+09          -202.750415
+m0308.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          54.756394         54.918509         8.660254e-06          91.987322         7.291473e+09          -206.573985
+m0312.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          54.522302         54.700240         8.660254e-06          92.784555         7.103129e+09          -205.775666
+m0316.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          54.091811         54.197790         8.660254e-06          94.627414         7.159070e+09          -203.919019
+m0321.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          56.096820         56.149294         8.660254e-06          96.459420         7.351933e+09          -202.219794
+m0323.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          59.459388         59.467893         8.660254e-06          94.451323         7.259433e+09          -204.140569
+m0326.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          51.358317         51.611440         8.490583e-06          94.060725         7.256434e+09          -204.533846
+m0328.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          54.830242         54.890195         8.660254e-06          95.843836         7.112772e+09          -202.731489
+m0331.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          48.615202         49.358670         8.124038e-06          95.696517         6.849828e+09          -203.026759
+m0337.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.680519         55.873766         8.660254e-06          94.339348         7.133152e+09          -204.239647
+m0344.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          51.490982         51.675852         8.602906e-06          95.973404         7.031475e+09          -202.676833
+m0349.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          58.179035         58.192456         8.660254e-06          95.671803         7.272852e+09          -202.969909
+m0353.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          62.336499         62.383485         8.660254e-06          95.711831         7.281411e+09          -202.927971
+m0356.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          49.135838         49.634393         8.124038e-06          97.020239         7.072044e+09          -201.813386
+m0359.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          61.111465         62.012739         7.071068e-06          96.337866         7.021398e+09          -203.703696
+m0362.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          56.053763         57.295699         7.569016e-06          97.705223         6.862526e+09          -200.808091
+m0366.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          63.782652         63.912596         8.546344e-06          93.977954         7.217685e+09          -204.695647
+m0368.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          51.805082         51.930458         8.660254e-06          97.132951         7.206616e+09          -201.383341
+m0375.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          50.237693         50.587904         8.660254e-06          95.811432         6.802878e+09          -203.114546
+m0378.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          54.178890         54.229364         8.660254e-06          95.705400         7.345351e+09          -202.882331
+m0382.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          59.865079         60.809524         8.062878e-06          98.953695         6.848279e+09          -199.647784
+m0384.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          64.115617         64.238941         8.602906e-06          92.626287         6.997816e+09          -205.445203
+m0387.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          68.880332         69.236967         7.681146e-06          99.544755         7.024079e+09          -199.326802
+m0392.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.727273         60.636364         7.071068e-06          97.074218         5.774481e+09          -201.012907
+m0395.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.369841         55.839683         8.124038e-06          100.166684         6.766585e+09          -199.221862
+m0397.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          60.501468         60.765051         8.124038e-06          97.045963         6.919084e+09          -201.622613
+m0399.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          64.209960         64.255378         8.660254e-06          97.528244         7.331213e+09          -201.123714
+m0402.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          70.793828         70.811114         8.660254e-06          96.249162         7.213115e+09          -202.460305
+m0403.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          68.150058         68.158485         8.660254e-06          96.849437         7.302031e+09          -201.590910
+m0406.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          56.658979         56.708106         8.660254e-06          95.157147         7.319026e+09          -203.426915
+m0410.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          54.691044         54.989318         8.124038e-06          95.732657         7.244721e+09          -202.817933
+m0412.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          64.370854         64.521608         7.935364e-06          94.274719         7.262805e+09          -204.705911
+m0414.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          59.765152         59.951705         7.348469e-06          98.849598         6.833833e+09          -198.159095
+m0417.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          61.961105         62.257932         8.124038e-06          97.443534         7.108847e+09          -202.048847
+m0420.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          65.528923         65.571409         8.602906e-06          98.151864         7.148242e+09          -200.804468
+m0422.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          61.538961         62.181818         5.385165e-06          106.502948         7.067348e+09          -197.872309
+m0426.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          67.925907         68.014518         8.660254e-06          96.455455         7.375522e+09          -201.886715
+m0429.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          66.768236         66.793181         8.660254e-06          99.602036         7.151383e+09          -198.967851
+m0434.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          56.136364         62.727273         5.547973e-06          101.831697         6.144620e+09          -198.686785
+m0436.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          51.440909         53.040909         8.124038e-06          96.449662         6.618302e+09          -202.400548
+m0439.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          61.688202         62.713483         8.062878e-06          92.815228         7.074598e+09          -206.322518
+m0443.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          67.517606         68.211268         8.660254e-06          98.229412         6.844603e+09          -200.567378
+m0447.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          70.013746         70.254296         8.660254e-06          94.792373         7.123143e+09          -203.744471
+m0449.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          63.556561         64.932127         7.826238e-06          98.314415         6.708173e+09          -200.860333
+m0452.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          71.161908         71.306218         8.124038e-06          98.271299         7.145984e+09          -200.278616
+m0458.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          69.129436         69.413361         7.884161e-06          96.707729         6.879138e+09          -203.155688
+m0461.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          76.087010         76.525735         8.027453e-06          99.497618         7.152284e+09          -199.725980
+m0465.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          62.442398         62.600857         8.660254e-06          95.999904         7.356488e+09          -202.594155
+m0466.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          60.117940         60.127834         8.660254e-06          94.627847         7.286893e+09          -204.143174
+m0469.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          64.233255         64.441246         8.660254e-06          96.664991         6.969027e+09          -202.008067
+m0472.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          59.938547         60.706704         8.660254e-06          95.267063         6.785820e+09          -202.835456
+m0476.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          48.985782         50.440758         8.660254e-06          94.456909         6.790706e+09          -203.728398
+m0481.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          52.754757         53.522199         8.660254e-06          95.632456         6.900218e+09          -203.614445
+m0485.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          59.231939         59.813688         8.124038e-06          96.846622         6.909421e+09          -202.603793
+m0488.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.125000         57.236111         8.124038e-06          96.887593         6.482502e+09          -201.385078
+m0491.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          49.656250         50.220588         8.660254e-06          95.997659         6.824592e+09          -202.287229
+m0493.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          63.858696         63.966216         8.660254e-06          96.419805         7.155972e+09          -202.096846
+m0496.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.627490         56.302789         8.124038e-06          96.473629         6.990469e+09          -201.843250
+m0499.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          51.070796         51.799410         8.124038e-06          96.819906         6.710194e+09          -202.498270
+m0504.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          56.925217         57.136812         8.660254e-06          97.820082         7.135486e+09          -200.792745
+m0507.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          65.250150         65.357658         8.660254e-06          98.714062         7.121443e+09          -200.268078
+m0511.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          52.884354         53.727891         7.681146e-06          100.402740         7.121013e+09          -198.803070
+m0513.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          64.635257         64.655489         8.602906e-06          97.476989         7.180389e+09          -201.425631
+m0518.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          69.856007         70.162544         8.328265e-06          86.900809         6.868850e+09          -211.686264
+m0523.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          67.681951         67.753439         8.660254e-06          92.922495         7.201293e+09          -205.715475
+m0526.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          48.616667         50.975000         8.124038e-06          97.449925         6.779430e+09          -201.818705
+m0530.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          53.949612         54.844961         8.490583e-06          96.859643         6.697477e+09          -201.572682
+m0532.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          52.779167         53.812500         8.124038e-06          96.013206         6.828154e+09          -201.607988
+m0537.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.226190         55.934524         8.124038e-06          97.380583         7.143471e+09          -200.949753
+m0540.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          59.059211         60.213816         8.124038e-06          98.207192         6.797405e+09          -200.643007
+m0543.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.583333         56.048077         8.660254e-06          99.157157         6.746516e+09          -199.722063
+m0547.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          53.240076         53.771267         8.660254e-06          99.484985         7.331267e+09          -199.180236
+m0549.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.022919         55.446321         8.124038e-06          98.060414         7.155958e+09          -200.419431
+m0551.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          60.377768         60.525700         8.660254e-06          100.042416         7.107445e+09          -198.860758
+m0555.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.725888         56.319797         8.381527e-06          98.190626         6.940739e+09          -200.317709
+m0559.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          58.096203         59.007595         8.660254e-06          98.381668         6.787639e+09          -200.221180
+m0565.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          66.118545         66.556338         8.602906e-06          100.399007         6.936433e+09          -198.504162
+m0570.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          59.372549         60.218137         8.660254e-06          98.612340         7.000162e+09          -200.203897
+m0574.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          50.446429         52.633929         8.660254e-06          99.697496         6.366701e+09          -198.652585
+m0580.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          59.174249         59.331210         8.660254e-06          100.231662         7.108010e+09          -198.251840
+m0583.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          50.766204         51.511574         7.942921e-06          98.116851         6.804148e+09          -200.316091
+m0587.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          59.758537         59.844030         8.660254e-06          93.830479         7.136188e+09          -204.786752
+m0591.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          54.381162         54.494819         8.660254e-06          94.241836         7.036602e+09          -204.278183
+m0592.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          53.152490         53.332988         8.490583e-06          96.007730         6.883629e+09          -202.715141
+m0598.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.922971         56.422283         8.660254e-06          95.147415         6.945275e+09          -203.364585
+m0603.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          50.192771         51.765060         7.616430e-06          96.875530         6.684824e+09          -202.267257
+m0607.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          62.795782         63.143174         8.124038e-06          97.658438         6.999126e+09          -201.128421
+m0613.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          52.948529         55.058824         7.681146e-06          99.986364         6.411056e+09          -198.500261
+m0617.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          60.644820         60.728604         8.660254e-06          94.595817         7.214744e+09          -204.078537
+m0622.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.685185         59.259259         7.418895e-06          97.915842         6.914993e+09          -200.855296
+m0633.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          60.076336         60.582061         8.490583e-06          93.908016         6.963173e+09          -204.173216
+m0638.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          65.946962         66.038105         8.602906e-06          95.667204         7.343287e+09          -202.951801
+m0642.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          67.108871         67.550403         7.980601e-06          99.068046         6.833005e+09          -202.280509
+m0645.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          58.483425         59.187845         7.681146e-06          96.002041         7.075746e+09          -202.872082
+m0649.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          60.756856         61.053931         8.602906e-06          96.005175         7.124578e+09          -202.574454
+m0654.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          66.189850         66.540414         7.826238e-06          96.000668         6.793643e+09          -203.256682
+m0657.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          63.037576         63.057321         8.660254e-06          95.185634         7.365187e+09          -203.387440
+m0663.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          53.968127         54.681275         8.124038e-06          96.010594         7.017531e+09          -202.903809
+m0667.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          60.166884         60.649283         8.002500e-06          92.973149         7.295349e+09          -205.799176
+m0671.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          66.021008         66.331092         8.381527e-06          94.449328         7.054165e+09          -204.165486
+m0674.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          69.029785         69.076794         8.602906e-06          93.817005         7.200439e+09          -204.893704
+m0679.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          64.605592         64.788817         8.224354e-06          96.763958         6.855219e+09          -202.195288
+m0682.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          50.196364         50.847273         8.027453e-06          92.216514         6.971407e+09          -206.287745
+m0686.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          52.538111         52.944255         8.490583e-06          90.932805         7.182928e+09          -207.695299
+m0690.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.988889         57.838889         7.942921e-06          85.210509         6.671851e+09          -213.492962
+m0693.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          57.061224         58.790816         8.045496e-06          92.719065         6.761646e+09          -205.855742
+m0697.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          69.855513         70.503802         7.657676e-06          96.407350         6.878442e+09          -202.121153
+m0700.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          57.838750         58.231250         8.173738e-06          96.496694         7.027732e+09          -202.260162
+m0703.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          60.904762         61.520408         7.497333e-06          96.706446         7.186048e+09          -203.005904
+m0706.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          70.154649         70.273561         8.546344e-06          84.678346         7.252370e+09          -213.223641
+m0709.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          66.196423         66.252046         8.660254e-06          94.324808         7.236796e+09          -204.337090
+m0713.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          59.052786         59.404692         8.376754e-06          96.504093         7.041797e+09          -202.190421
+m0716.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          70.557494         70.628547         8.381527e-06          90.454700         7.139265e+09          -208.356687
+m0719.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          56.668269         57.262821         7.983733e-06          95.999980         6.978213e+09          -202.754808
+m0723.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          62.521868         62.593184         8.660254e-06          89.713362         7.276252e+09          -208.994847
+m0727.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          62.214391         62.729809         7.278736e-06          96.906677         7.248997e+09          -202.362669
+m0731.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          58.859335         59.318414         7.884161e-06          92.321521         7.112834e+09          -206.579146
+m0734.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          56.967765         57.203438         8.124038e-06          97.590706         6.798969e+09          -201.118027
+m0736.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          66.841270         67.361111         8.124038e-06          96.942075         7.302761e+09          -202.296155
+m0741.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          52.792244         53.292244         8.124038e-06          101.422932         7.107888e+09          -197.662205
+m0744.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          59.562483         59.662188         8.660254e-06          98.341329         7.152900e+09          -200.314436
+m0747.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          58.210938         59.718750         7.071068e-06          100.172508         6.238427e+09          -199.882584
+m0749.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          44.643750         46.225000         7.549834e-06          98.634264         6.756215e+09          -199.569917
+m0760.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          51.567901         54.469136         7.297260e-06          97.835219         7.027137e+09          -201.019972
+m0771.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          56.691176         58.132353         7.445804e-06          98.655444         7.141364e+09          -200.572366
+m0776.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          65.401136         65.805682         8.062878e-06          98.185520         7.045466e+09          -200.425153
+m0780.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.881410         57.016026         7.826238e-06          99.399545         6.829198e+09          -199.131747
+m0787.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          58.394756         58.654042         8.124038e-06          96.913181         7.053215e+09          -201.532426
+m0791.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          67.084790         67.231643         8.660254e-06          100.121086         7.019485e+09          -198.556827
+m0794.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          53.380531         53.908555         8.490583e-06          97.975202         6.808905e+09          -200.561224
+m0801.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          63.171348         63.214949         8.660254e-06          96.971145         7.363652e+09          -201.638689
+m0804.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          54.803681         55.628834         7.826877e-06          98.108355         6.763200e+09          -200.716228
+m0808.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          54.447743         54.853919         8.124038e-06          97.127411         7.287553e+09          -201.470389
+m0819.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          59.814070         60.713568         8.490583e-06          98.211769         6.567832e+09          -200.958021
+m0825.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          60.188088         61.272727         8.027453e-06          98.117251         6.453040e+09          -200.892367
+m0830.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          53.684874         54.743697         7.418895e-06          99.386068         7.177653e+09          -199.598449
+m0837.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          64.910952         64.933434         8.660254e-06          96.647587         7.182778e+09          -202.013778
+m0843.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          57.180829         57.224737         8.660254e-06          96.397587         7.136181e+09          -202.245308
+m0848.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          66.994152         67.827485         8.660254e-06          95.920264         6.763281e+09          -202.789722
+m0856.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          62.546875         64.531250         6.839591e-06          100.985577         6.585433e+09          -197.833704
+m0861.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          63.926667         65.133333         7.549834e-06          99.810681         6.536348e+09          -199.920074
+m0866.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          65.104072         66.782805         8.275869e-06          101.090066         6.699321e+09          -197.304911
+m0871.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          40.266667         44.650000         8.328265e-06          100.325279         6.650351e+09          -198.276001
+m0878.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          62.128125         62.790625         7.161704e-06          102.986544         6.820442e+09          -195.922994
+m0882.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          65.366221         65.847826         8.660254e-06          100.248324         7.021388e+09          -198.595575
+m0890.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.078740         55.777559         8.660254e-06          97.984695         7.084233e+09          -199.886169
+m0898.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          58.468750         59.510417         8.224354e-06          99.136489         6.964853e+09          -198.788723
+m0906.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          49.584270         51.185393         8.124038e-06          96.126978         6.046049e+09          -201.860690
+m0913.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          56.528846         58.384615         8.660254e-06          102.086819         6.400449e+09          -196.691603
+m0921.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          58.993753         59.182197         8.660254e-06          98.468815         7.150529e+09          -200.056577
+m0925.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          60.018519         61.185185         7.549834e-06          97.169719         6.605723e+09          -201.314865
+m0929.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          54.878378         55.569820         8.328265e-06          96.417810         6.590017e+09          -202.094769
+m0935.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          59.898438         62.421875         7.549834e-06          98.275527         7.134443e+09          -200.261393
+m0940.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          58.567308         59.442308         7.681146e-06          98.908582         6.786617e+09          -200.192169
+m0943.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          61.000000         62.025862         8.124038e-06          98.129690         7.133542e+09          -199.848403
+m0948.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          62.956711         63.035675         8.660254e-06          101.969308         7.200084e+09          -196.466801
+m0953.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          62.030769         63.717949         8.124038e-06          96.818006         6.653087e+09          -201.485968
+m0957.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          60.875000         64.875000         7.616430e-06          100.636574         6.620112e+09          -199.326820
+m0960.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          64.799230         65.001650         8.660254e-06          94.821560         7.277636e+09          -203.950446
+m0967.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          53.311508         53.339624         8.660254e-06          92.938980         7.335959e+09          -205.646742
+m0972.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          69.947830         69.970921         8.660254e-06          95.678503         7.313921e+09          -203.081905
+m0977.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.549096         55.791344         8.660254e-06          96.916569         7.235685e+09          -201.598990
+m0982.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          49.355422         50.385542         8.124038e-06          94.308543         7.149682e+09          -204.631906
+m0987.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          48.785882         49.174118         8.660254e-06          93.046832         6.950222e+09          -205.667845
+m0992.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          50.556008         51.264766         8.124038e-06          94.655666         6.884300e+09          -203.801354
+m0996.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          54.818620         55.382022         8.660254e-06          94.150240         7.026635e+09          -204.790893
+m1002.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          52.405206         52.447700         8.660254e-06          91.316477         7.320845e+09          -207.235543
+m1006.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.684136         55.706361         8.660254e-06          88.855255         7.299269e+09          -209.750998
+m1012.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          50.474915         50.595254         8.660254e-06          90.048752         7.122370e+09          -208.583118
+m1017.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.345778         55.372145         8.660254e-06          96.621770         7.332075e+09          -201.931966
+m1022.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          56.254504         56.298909         8.660254e-06          94.907893         7.242571e+09          -203.651656
+m1030.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          49.706329         50.402532         8.660254e-06          94.091992         6.622289e+09          -204.092327
+m1034.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          51.780702         53.184211         8.124038e-06          93.709443         6.910114e+09          -204.607758
+m1039.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          52.112254         52.195702         8.660254e-06          92.322646         7.103117e+09          -206.346113
+m1047.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          58.230088         58.239660         8.660254e-06          93.214107         7.266626e+09          -205.371993
+m1050.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          49.148244         49.216821         8.660254e-06          93.274806         7.187037e+09          -205.286630
+m1055.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          42.221170         42.233043         8.660254e-06          91.446317         7.384057e+09          -207.121469
+m1060.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          46.684211         47.187719         8.124038e-06          93.687501         7.141193e+09          -204.761988
+m1065.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          41.199867         41.322913         8.660254e-06          91.439526         7.078037e+09          -207.039239
+m1069.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          57.423987         57.443588         8.660254e-06          96.444610         7.160042e+09          -202.151482
+m1072.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          53.308260         53.581121         8.660254e-06          93.279870         6.995268e+09          -205.545572
+m1089.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          50.082353         51.964706         8.124038e-06          95.505689         6.763747e+09          -203.106472
+m1092.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          46.181009         47.160237         8.124038e-06          94.425301         6.719353e+09          -203.815945
+m1097.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          53.228571         58.828571         6.403124e-06          95.495642         6.307603e+09          -205.433400
+m1105.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          58.120000         58.351613         8.545174e-06          96.323471         6.989384e+09          -202.146364
+m1110.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          64.688235         65.051765         8.124038e-06          95.299855         6.888049e+09          -203.340126
+m1118.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          66.123361         66.158112         8.660254e-06          94.759874         7.235686e+09          -203.965019
+m1123.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          64.482759         64.824631         8.124038e-06          92.562218         7.115625e+09          -206.155306
+m1126.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          63.802597         64.271429         7.616430e-06          95.175727         6.929220e+09          -203.683724
+m1131.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          63.475104         64.147303         7.681146e-06          94.590196         6.934122e+09          -204.255160
+m1136.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          65.832965         66.174779         8.381527e-06          92.095274         6.935163e+09          -206.486077
+m1139.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          66.130137         66.251027         8.660254e-06          93.510830         7.211389e+09          -205.064741
+m1146.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          64.927647         65.095882         7.045566e-06          93.956406         6.801257e+09          -207.327984
+m1152.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          64.123725         64.223296         8.602906e-06          93.089020         7.153404e+09          -205.323891
+m1160.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          64.833002         64.859300         8.602906e-06          91.600334         7.272347e+09          -207.076077
+m1169.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.883973         56.177796         8.435639e-06          93.534785         7.113297e+09          -205.046455
+m1173.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          69.891135         70.031493         8.660254e-06          94.388825         7.094232e+09          -204.111851
+m1181.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          52.509709         53.378641         7.884161e-06          94.942940         6.817692e+09          -203.437383
+m1189.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          56.327935         57.404858         8.328265e-06          94.295298         6.767382e+09          -203.776818
+m1198.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          52.946429         54.535714         7.942921e-06          94.873815         6.876391e+09          -203.582980
+m1202.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          58.162791         58.696221         8.124038e-06          94.650974         6.930352e+09          -203.906541
+m1208.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          57.902597         58.766234         8.124038e-06          94.937120         7.059066e+09          -203.672602
+m1212.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          59.691390         59.987212         8.151687e-06          94.823479         7.190933e+09          -203.950031
+m1218.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          54.912409         56.094891         8.124038e-06          94.969761         6.980975e+09          -203.137160
+m1222.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          57.373494         58.183735         7.884161e-06          93.916333         6.749717e+09          -205.015679
+m1226.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          53.260870         55.459627         7.616430e-06          95.184352         6.363115e+09          -203.178106
+m1236.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          56.641414         57.356061         7.884161e-06          94.256107         6.752434e+09          -204.355790
+m1240.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          53.829670         55.285714         7.549834e-06          95.277987         7.169283e+09          -203.807072
+m1245.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          54.511628         55.990698         8.124038e-06          92.017118         7.076564e+09          -206.078950
+m1252.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          68.482422         68.600911         8.660254e-06          94.177280         7.200136e+09          -204.648386
+m1255.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          58.421535         58.532997         8.660254e-06          95.507825         7.252503e+09          -202.985707
+m1258.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          62.588154         62.757117         8.660254e-06          95.067541         7.220699e+09          -203.728912
+m1262.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          63.204334         63.699690         8.490583e-06          95.047325         6.928726e+09          -203.135507
+m1269.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          63.530435         64.943478         8.490583e-06          95.423141         6.665347e+09          -203.499475
+m1275.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          61.818627         63.308824         8.124038e-06          95.307318         6.789836e+09          -204.527566
+m1279.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          66.140327         66.607629         8.173738e-06          92.545215         7.102407e+09          -206.201590
+m1283.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          63.498182         64.603636         7.681146e-06          94.484802         7.030433e+09          -203.991199
+m1289.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          67.835368         67.907247         8.660254e-06          94.130200         7.178559e+09          -204.413255
+m1293.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          67.343267         67.749448         8.173738e-06          90.459397         7.014314e+09          -208.116837
+m1297.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          65.634375         66.200000         8.124038e-06          90.024674         7.261713e+09          -209.433114
+m1301.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          46.270270         49.918919         7.712976e-06          95.434798         6.411636e+09          -202.729522
+m1308.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          69.556497         69.562800         8.660254e-06          95.249338         7.379608e+09          -203.424577
+m1312.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          58.662162         59.792793         8.124038e-06          95.520494         6.787303e+09          -203.817681
+m1315.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          63.966667         64.615686         8.660254e-06          93.804254         7.156045e+09          -205.189811
+m1321.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          62.837209         62.968387         8.381527e-06          91.854761         7.007914e+09          -206.767089
+m1325.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          63.987702         64.166990         8.124038e-06          92.182300         7.262735e+09          -206.127578
+m1332.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          57.237903         57.877016         8.124038e-06          94.293315         6.713534e+09          -204.284242
+m1334.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          56.382022         57.389513         7.942921e-06          93.636612         6.679108e+09          -204.916509
+m1337.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          58.492537         59.547264         8.124038e-06          98.354935         6.615768e+09          -199.881140
+m1341.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.583529         56.268235         8.546344e-06          96.231050         6.798064e+09          -202.989321
+m1347.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          64.335516         64.454337         8.381527e-06          94.944897         7.142830e+09          -203.749571
+m1350.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          66.135825         66.453965         8.660254e-06          92.407811         7.302679e+09          -206.333172
+m1356.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          52.120247         52.308839         8.660254e-06          94.729689         6.903396e+09          -203.900545
+m1361.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          57.776493         58.125241         8.546344e-06          96.134003         7.117375e+09          -202.535559
+m1365.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.864903         56.341226         8.490583e-06          95.087658         7.202509e+09          -203.847381
+m1370.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          62.316362         62.506293         8.660254e-06          94.781359         7.169339e+09          -203.792651
+m1374.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          61.607054         61.651485         8.660254e-06          93.984680         7.217093e+09          -204.660316
+m1378.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.850413         56.026712         8.660254e-06          95.009113         7.105769e+09          -203.251212
+m1382.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          59.613331         59.664573         8.660254e-06          96.312573         7.213836e+09          -202.545293
+m1385.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          67.434962         67.467391         8.660254e-06          91.285933         7.224662e+09          -207.272343
+m1397.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          63.422171         63.457435         8.660254e-06          96.324187         7.294346e+09          -202.334357
+m1410.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          67.907117         67.967758         8.660254e-06          92.496549         7.177369e+09          -206.059078
+m1418.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          50.683128         51.411523         7.681146e-06          95.150937         7.020214e+09          -203.391643
+m1426.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          64.755380         64.768873         8.660254e-06          95.601155         7.212768e+09          -203.261832
+m1435.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          57.210564         57.297336         8.546344e-06          92.715774         7.161775e+09          -206.062647
+m1441.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          58.830955         58.945449         8.124038e-06          93.430700         7.125677e+09          -205.268074
+m1449.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.527273         56.590909         8.124038e-06          96.066747         6.679274e+09          -202.332298
+m1454.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          51.720000         52.824615         8.124038e-06          95.999490         6.950612e+09          -202.469299
+m1461.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          62.044388         62.074006         8.660254e-06          94.907068         7.235905e+09          -203.726624
+m1465.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          63.056623         63.107901         8.660254e-06          90.768811         7.146196e+09          -207.843226
+m1473.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          52.525547         52.687956         8.660254e-06          95.908263         7.028917e+09          -202.778634
+m1480.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          60.157812         60.196060         8.660254e-06          95.702341         7.274218e+09          -202.801259
+m1485.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          62.508783         62.568803         8.660254e-06          97.514602         7.316602e+09          -201.068547
+m1492.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          61.565438         61.627832         8.660254e-06          95.460267         7.156351e+09          -203.150153
+m1497.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          65.436115         65.538714         8.435639e-06          97.178752         7.217880e+09          -201.541002
+m1503.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          68.257766         68.271686         8.660254e-06          95.640822         7.234633e+09          -202.967590
+m1511.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          62.304765         62.337736         8.660254e-06          96.688172         7.266797e+09          -202.189976
+m1520.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.518519         56.328042         8.660254e-06          97.285985         6.908071e+09          -201.164292
+m1526.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          58.537500         59.378125         7.203471e-06          98.172127         6.703079e+09          -201.492891
+m1532.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          53.825758         55.719697         7.549834e-06          97.955399         6.879849e+09          -201.636828
+m1540.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          65.464202         65.508008         8.660254e-06          97.144338         7.161890e+09          -201.441126
+m1544.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          63.955508         63.961526         8.660254e-06          95.550968         7.351916e+09          -203.017260
+m1549.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          63.233596         63.803150         7.872738e-06          95.947060         6.756100e+09          -202.599214
+m1553.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          59.846651         60.146086         8.660254e-06          96.457994         6.967967e+09          -201.890880
+m1557.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          60.283190         60.325716         8.602906e-06          97.342458         7.129461e+09          -201.316944
+m1563.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          58.514610         58.980519         8.124038e-06          98.389386         6.980775e+09          -200.511374
+m1567.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          50.574074         52.351852         8.075271e-06          97.854166         6.369538e+09          -200.671552
+m1573.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          63.321013         63.551677         8.546344e-06          95.104959         7.056324e+09          -203.843832
+m1579.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          64.281060         64.333044         8.660254e-06          96.168171         7.237201e+09          -202.487540
+m1584.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          56.574713         57.810345         8.124038e-06          97.465981         6.483925e+09          -201.567104
+m1591.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          61.705409         61.754326         8.660254e-06          98.849053         7.299382e+09          -199.543502
+m1597.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          65.721988         65.758469         8.660254e-06          97.044947         7.167739e+09          -201.986130
+m1601.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          59.543630         59.598335         8.660254e-06          96.355846         7.226783e+09          -202.124833
+m1605.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          54.382022         56.617978         7.348469e-06          98.713614         6.399966e+09          -200.843747
+m1610.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          59.703151         59.764358         8.660254e-06          97.121201         7.162823e+09          -201.848103
+m1615.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          60.365764         60.396041         8.660254e-06          95.224900         7.187598e+09          -203.325010
+m1619.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.985185         56.440741         8.124038e-06          95.146150         6.737640e+09          -203.248640
+m1622.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          54.383302         54.565465         8.660254e-06          97.705981         7.142100e+09          -200.824653
+m1629.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          53.791039         53.940117         8.224354e-06          96.101889         7.155619e+09          -202.518411
+m1632.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          59.323576         59.609177         8.660254e-06          97.042465         7.038145e+09          -201.340563
+m1638.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          58.535224         58.575610         8.660254e-06          96.948884         7.117363e+09          -201.773882
+m1644.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          67.464012         68.010720         8.173738e-06          95.115679         7.021173e+09          -203.131811
+m1649.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          66.711350         66.820107         8.124038e-06          90.977833         7.223498e+09          -207.757610
+m1654.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          64.562116         64.625858         8.660254e-06          95.289207         7.233986e+09          -203.330655
+m1661.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          61.906994         62.180804         8.546344e-06          95.032620         7.143826e+09          -203.605843
+m1668.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          62.229948         62.363870         8.660254e-06          97.083691         7.245298e+09          -201.645382
+m1673.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          56.825000         60.312500         7.071068e-06          96.460680         5.996081e+09          -202.951672
+m1678.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          69.182243         69.708723         7.934734e-06          91.846867         6.940870e+09          -207.032324
+m1682.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          66.386910         66.467498         8.660254e-06          96.317366         7.099086e+09          -201.742148
+m1686.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          68.402587         68.552546         7.189576e-06          99.407886         7.293673e+09          -200.646570
+m1690.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          61.375969         62.131783         7.681146e-06          97.005715         7.053524e+09          -202.081557
+m1695.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          67.998836         68.203143         7.105632e-06          98.708028         7.240695e+09          -201.697528
+m1700.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          59.623563         59.829885         8.660254e-06          94.078761         6.921353e+09          -205.073911
+m1704.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          49.952369         50.026519         8.660254e-06          93.630837         7.121352e+09          -204.837022
+m1711.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          58.455882         61.338235         7.029225e-06          97.730472         6.480319e+09          -202.257728
+m1715.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          66.360947         66.868343         7.681146e-06          90.968741         6.941191e+09          -207.891270
+m1720.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          65.481844         65.941341         8.381527e-06          96.620359         7.208552e+09          -202.241011
+m1728.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          67.170466         67.351833         8.602906e-06          97.787786         7.094817e+09          -200.973629
+m1732.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          68.893333         69.913333         7.942921e-06          97.626594         6.706778e+09          -200.687182
+m1736.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          68.336066         68.822404         8.660254e-06          99.342549         6.977560e+09          -199.469000
+m1742.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          64.492439         64.520636         8.660254e-06          92.519283         7.298281e+09          -206.020450
+m1746.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          48.209163         48.780876         8.660254e-06          97.128907         6.926640e+09          -201.406672
+m1754.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          55.135417         56.069444         8.660254e-06          95.195245         7.045162e+09          -202.459545
+m1775.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          60.472222         61.217172         7.681146e-06          97.603861         6.546321e+09          -201.078066
+m1809.off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+5          64.221575         64.244878         8.660254e-06          94.146301         7.240295e+09          -204.531433

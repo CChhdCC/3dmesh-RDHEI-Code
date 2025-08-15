@@ -1,0 +1,12 @@
+m107(horse).off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+6          44.096362         44.242871         7.071068e-07          125.516942         7.214628e+09          -200.734442
+m112(bunny).off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+6          44.935639         44.985958         6.403124e-07          129.725272         7.286421e+09          -200.943704
+m1408(xwing).off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+6          56.708430         56.946636         7.071068e-07          123.989121         7.134038e+09          -202.347110
+m295(face).off
+m          capacity        nocost_capacity             hd               snr             hd_str                   snr_str
+6          43.408898         44.205508         5.000000e-07          130.869490         6.710624e+09          -206.362887
